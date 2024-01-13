@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ccs-security.club/" target="_blank" rel="noopener noreferrer">
-    <img width="500" src="https://raw.githubusercontent.com/computer-communication-security-club/.github/main/profile/assets/ccs-banner.svg" alt="CCS club banner" />
+    <img width="500" src="https://raw.githubusercontent.com/computer-communication-security-club/.github/main/profile/assets/ccs-banner.png" alt="CCS club banner" />
   </a>
 </p>
 
